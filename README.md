@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=web publisher&fontSize=18)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=web publisher&fontSize=18)
 
