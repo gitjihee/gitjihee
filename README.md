@@ -1,4 +1,4 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome!&fontSize=40)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=40)
 
 ## 🔥 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
